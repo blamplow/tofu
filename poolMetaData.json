@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "Tofu",
 "description": "Changing the world through veganism and with love to all!",
 "ticker": "TOFU",
 "homepage": "https://tofu.io"
 }
-EOF
